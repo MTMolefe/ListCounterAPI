@@ -2,6 +2,6 @@ namespace ListCounterAPI.Controllers
 {
 public class InputModel
 {
-    public object[] Items { get; set; }
+      public required List<object>[] Items { get; set; }
 }
 }
