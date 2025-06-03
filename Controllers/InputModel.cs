@@ -1,4 +1,4 @@
-namespace InputModels.models
+namespace ListCounterAPI.Controllers
 {
 public class InputModel
 {
