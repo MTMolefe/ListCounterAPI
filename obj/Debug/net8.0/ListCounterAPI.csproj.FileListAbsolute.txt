@@ -1,0 +1,72 @@
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\ListCounterAPI.staticwebassets.endpoints.json
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\ListCounterAPI.exe
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\ListCounterAPI.deps.json
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\ListCounterAPI.runtimeconfig.json
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\ListCounterAPI.dll
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\ListCounterAPI.pdb
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.csproj.AssemblyReference.cache
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.AssemblyInfoInputs.cache
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.AssemblyInfo.cs
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.csproj.CoreCompileInputs.cache
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\scopedcss\bundle\ListCounterAPI.styles.css
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets\msbuild.ListCounterAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets\msbuild.ListCounterAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ListCounterAPI.props
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ListCounterAPI.props
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ListCounterAPI.props
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCoun.0AAEC22D.Up2Date
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.dll
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\refint\ListCounterAPI.dll
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.pdb
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.genruntimeconfig.cache
+C:\Users\Tlotlo\source\repos\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ref\ListCounterAPI.dll
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.csproj.AssemblyReference.cache
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.AssemblyInfoInputs.cache
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.AssemblyInfo.cs
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.csproj.CoreCompileInputs.cache
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.dll
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\refint\ListCounterAPI.dll
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.pdb
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\ListCounterAPI.staticwebassets.endpoints.json
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\ListCounterAPI.exe
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\ListCounterAPI.deps.json
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\ListCounterAPI.runtimeconfig.json
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\ListCounterAPI.dll
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\ListCounterAPI.pdb
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\scopedcss\bundle\ListCounterAPI.styles.css
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets\msbuild.ListCounterAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets\msbuild.ListCounterAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ListCounterAPI.props
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ListCounterAPI.props
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ListCounterAPI.props
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCoun.0AAEC22D.Up2Date
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ListCounterAPI.genruntimeconfig.cache
+C:\Users\Tlotlo\OneDrive\Desktop\list counter\ListCounterAPI\ListCounterAPI\obj\Debug\net8.0\ref\ListCounterAPI.dll
