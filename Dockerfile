@@ -2,16 +2,21 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
-# Copy project file and restore dependencies
-COPY *.csproj ./
+# Copy the project file explicitly
+COPY ListCounterAPI/*.csproj ./ListCounterAPI/
+WORKDIR /app/ListCounterAPI
+
+# Restore dependencies
 RUN dotnet restore
 
-# Copy all source code and publish release build
+# Copy all source code
 COPY . ./
-RUN dotnet publish -c Release -o out
+
+# Publish the release build
+RUN dotnet publish -c Release -o /app/out
 
 # Stage 2: Create runtime image
-FROM mcr.microsoft.com/dotnet/aspnet:9.0
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
 
 # Copy published files from build stage
