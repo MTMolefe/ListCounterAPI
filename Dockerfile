@@ -1,29 +1,24 @@
-# Stage 1: Build the app
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+# See https://aka.ms/customizecontainer to learn how to customize your debug container and how Visual Studio uses this Dockerfile to build your images for faster debugging.
+
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 WORKDIR /app
-
-# Copy the project file explicitly
-COPY ListCounterAPI/*.csproj ./ListCounterAPI/
-WORKDIR /app/ListCounterAPI
-
-# Restore dependencies
-RUN dotnet restore
-
-# Copy all source code
-COPY . ./
-
-# Publish the release build
-RUN dotnet publish -c Release -o /app/out
-
-# Stage 2: Create runtime image
-FROM mcr.microsoft.com/dotnet/aspnet:8.0
-WORKDIR /app
-
-# Copy published files from build stage
-COPY --from=build /app/out ./
-
-# Expose port 80
 EXPOSE 80
+EXPOSE 443
 
-# Set the entry point to run your app
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+ARG BUILD_CONFIGURATION=Release
+WORKDIR /src
+COPY ["ListCounterAPI.csproj", "ListCounterAPI/"]
+RUN dotnet restore "./ListCounterAPI/ListCounterAPI.csproj"
+COPY . .
+WORKDIR "/src/ListCounterAPI"
+RUN dotnet build "./ListCounterAPI.csproj" -c $BUILD_CONFIGURATION -o /app/build
+
+FROM build AS publish
+ARG BUILD_CONFIGURATION=Release
+RUN dotnet publish "./ListCounterAPI.csproj" -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "ListCounterAPI.dll"]
