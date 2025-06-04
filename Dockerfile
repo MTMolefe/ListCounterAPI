@@ -21,4 +21,4 @@ COPY --from=build /app/out ./
 EXPOSE 80
 
 # Set the entry point to run your app
-ENTRYPOINT ["dotnet", "ItemCounterApi.dll"]
+ENTRYPOINT ["dotnet", "ListCounterAPI.dll"]
