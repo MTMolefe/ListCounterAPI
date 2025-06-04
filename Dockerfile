@@ -8,11 +8,10 @@ EXPOSE 443
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["ListCounterAPI.csproj", "ListCounterAPI/"]
-RUN dotnet restore "./ListCounterAPI/ListCounterAPI.csproj"
 COPY . .
+RUN dotnet restore "./ListCounterAPI/ListCounterAPI.csproj"
 WORKDIR "/src/ListCounterAPI"
-RUN dotnet build "./ListCounterAPI.csproj" -c $BUILD_CONFIGURATION -o /app/build
+RUN dotnet build "./ListCounterAPI.csproj" -c $BUILD_CONFIGURATION -o /app/build --no-self-contained
 
 FROM build AS publish
 ARG BUILD_CONFIGURATION=Release
